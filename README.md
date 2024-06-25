@@ -1,14 +1,16 @@
 # pandas-challenge
 
+[School Summary](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#school-summary)
+
+[Highest and Lowest Performers](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#highest-and-lowest-performers)
+
+[Conclusions](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#conclusions)
+
+
 ## Written Analysis
--[School Summary](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#school-summary)
 
-#[Conclusions](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#conclusions)
+The data contains information on students, including grade, gender, and test scores, as well as schools, including name, type, size, and budget. To begin with, there are some overall statistics calculated, such as the total number of students, total budget, average math and reading scores, and the % of overall passing scores, among other things.
 
-
-## Written Analysis
-
-The data contains information on students, including grade, gender, and test scores, as well as schools, including name, type, size, and budget. To begin with, there are some overall statistics calculated, such as the total number of students, total budget, average math and reading scores, and the % of overall passing scores, among other things. 
 ### Overview of the Data: ![Overview](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/overall_summary.png)
 
 ## School Summary:
