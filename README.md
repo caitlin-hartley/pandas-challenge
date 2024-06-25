@@ -1,5 +1,7 @@
 # pandas-challenge
 
+An analysis of the district-wide standardized test results of 15 schools to show obvious trends in school performance.
+
 [School Summary](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#school-summary)
 
 [Highest and Lowest Performers](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#highest-and-lowest-performers)
