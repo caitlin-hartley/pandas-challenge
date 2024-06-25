@@ -4,6 +4,12 @@
 
 [Highest and Lowest Performers](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#highest-and-lowest-performers)
 
+[By Grade](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#by-grade)
+
+[By Spending and Size](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#spending-and-size)
+
+[Types of Schools](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#types-of-schools)
+
 [Conclusions](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#conclusions)
 
 
