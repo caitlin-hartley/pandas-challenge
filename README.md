@@ -20,8 +20,10 @@
 
 ### The student’s performance at each school is then split up by grade, calculating both average math and reading scores, with the result showing a consistency in scoring across grades 9th through 12th within each school. 
 
-### Math: ![Math](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/math_by_grade.png)
-### Reading: ![Reading](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/reading_by_grade.png)
+### Math: 
+![Math](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/math_by_grade.png)
+### Reading: 
+![Reading](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/reading_by_grade.png)
 
 ## Spending and Size:
 
