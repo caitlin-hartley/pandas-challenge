@@ -1,9 +1,9 @@
 # pandas-challenge
 
 ## Written Analysis
-[ * School Summary](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#school-summary)
+-[School Summary](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#school-summary)
 
-[Conclusions](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#conclusions)
+#[Conclusions](https://github.com/caitlin-hartley/pandas-challenge/blob/main/README.md#conclusions)
 
 
 ## Written Analysis
