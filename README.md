@@ -2,7 +2,7 @@
 
 # Written Analysis
 
-# Conclusions [conclusions](https://github.com/caitlin-hartley/pandas-challenge/edit/main/README.md#conclusions)
+[Conclusions](https://github.com/caitlin-hartley/pandas-challenge/edit/main/README.md#Conclusions)
 
 
 ## Written Analysis
