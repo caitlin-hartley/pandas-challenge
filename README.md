@@ -16,15 +16,25 @@
 ### Top: ![Top](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/highest_performing.png)
 ### Bottom: ![Bottom](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/bottom_performing.png)
 
-## By Grade 
+## By Grade: 
 
 ### The student’s performance at each school is then split up by grade, calculating both average math and reading scores, with the result showing a consistency in scoring across grades 9th through 12th within each school. 
 
+### Math: ![Math](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/math_by_grade.png)
+### Reading: ![Reading](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/reading_by_grade.png)
 
-## The scores are then placed into bins based on spending per student, and then again based on school size. 
+## Spending and Size:
 
+### The scores are then placed into bins based on spending per student, and then again based on school size. 
+
+### Spending: ![Spending](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/scores_spending.png}
+### Size: ![Size](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/scores_size.png)
+
+## Types of Schools:
 
 ### Finally, the scores are compared based on whether the school is a District school or Charter school. 
+
+### Types: ![Types](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/school_types.png)
 
 ## Conclusions 
 
