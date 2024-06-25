@@ -27,7 +27,7 @@
 
 ### The scores are then placed into bins based on spending per student, and then again based on school size. 
 
-### Spending: ![Spending](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/scores_spending.png}
+### Spending: ![Spending](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/scores_spending.png)
 ### Size: ![Size](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/scores_size.png)
 
 ## Types of Schools:
@@ -36,7 +36,7 @@
 
 ### Types: ![Types](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/school_types.png)
 
-## Conclusions 
+## Conclusions:
 
 ### Overall, Charter schools perform better than District schools across all statistics: average math score, average reading score, % passing math, % passing reading, and % overall passing. In % overall passing, Charters school performed significantly better at 90.43% compared to districts schools at 53.67%. 
 
