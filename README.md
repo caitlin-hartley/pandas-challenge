@@ -23,7 +23,7 @@ The data contains information on students, including grade, gender, and test sco
 
 In the school summary, the data is broken down further by school name to look at the type of school, number of students per school, the school budget and capita, the number of students with passing math and/or reading scores, and the overall passing rate. This allows a look into statistics for each school and a school-by-school comparison. 
 
-![SchoolSummary](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/school_summary.png)
+![SchoolSummary](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/school_summary.png =100x20)
 
 ## Highest and Lowest Performers:
 
