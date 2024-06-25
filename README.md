@@ -13,8 +13,8 @@
 ## Highest and Lowest Performers:
 
 ### The analysis then looks at the top performing and bottom performing schools based on the % of overall passing grades, which is calculated as the number of students that pass math and reading over the total number of students per school. 
-###Top: ![Top](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/highest_performing.png)
-###Bottom: ![Bottom](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/bottom_performing.png)
+### Top: ![Top](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/highest_performing.png)
+### Bottom: ![Bottom](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/bottom_performing.png)
 
 ## By Grade 
 
