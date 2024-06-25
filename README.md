@@ -23,7 +23,7 @@ The data contains information on students, including grade, gender, and test sco
 
 In the school summary, the data is broken down further by school name to look at the type of school, number of students per school, the school budget and capita, the number of students with passing math and/or reading scores, and the overall passing rate. This allows a look into statistics for each school and a school-by-school comparison. 
 
-![SchoolSummary](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/school_summary.png =100x20)
+![SchoolSummary](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/school_summary.png)
 
 ## Highest and Lowest Performers:
 
@@ -36,7 +36,7 @@ The analysis then looks at the top performing and bottom performing schools base
 The student’s performance at each school is then split up by grade, calculating both average math and reading scores, with the result showing a consistency in scoring across grades 9th through 12th within each school. 
 
 ### Math: 
-![Math](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/math_by_grade.png =100x20)
+![Math](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/math_by_grade.png)
 ### Reading: 
 ![Reading](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/reading_by_grade.png)
 
