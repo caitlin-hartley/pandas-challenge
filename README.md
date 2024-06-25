@@ -8,10 +8,13 @@
 ## School Summary:
 
 ### In the school summary, the data is broken down further by school name to look at the type of school, number of students per school, the school budget and capita, the number of students with passing math and/or reading scores, and the overall passing rate. This allows a look into statistics for each school and a school-by-school comparison. 
-
+![SchoolSummary](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/school_summary.png)
 
 
 ### The analysis then looks at the top performing and bottom performing schools based on the % of overall passing grades, which is calculated as the number of students that pass math and reading over the total number of students per school. 
+###Top:![Top](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/highest_performing.png)
+###Bottom:![Bottom](https://github.com/caitlin-hartley/pandas-challenge/blob/main/images/bottom_performing.png)
+
 ### The student’s performance at each school is then split up by grade, with the result showing a consistency in scoring across grades 9th through 12th within each school. The scores are then placed into bins based on spending per student, and then again based on school size. Finally, the scores are compared based on whether the school is a District school or Charter school. 
 
 ### Overall, Charter schools perform better than District schools across all statistics: average math score, average reading score, % passing math, % passing reading, and % overall passing. In % overall passing, Charters school performed significantly better at 90.43% compared to districts schools at 53.67%. 
