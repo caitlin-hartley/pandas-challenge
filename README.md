@@ -1,5 +1,10 @@
 # pandas-challenge
 
+# Written Analysis
+
+# Conclusions [conclusions](https://github.com/caitlin-hartley/pandas-challenge/edit/main/README.md#conclusions)
+
+
 ## Written Analysis
 
 ### The data contains information on students, including grade, gender, and test scores, as well as schools, including name, type, size, and budget. To begin with, there are some overall statistics calculated, such as the total number of students, total budget, average math and reading scores, and the % of overall passing scores, among other things. 
